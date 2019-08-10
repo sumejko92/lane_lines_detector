@@ -1,5 +1,5 @@
 ## Project
-Python 3
+Python 3 <br>
 OpenCV 4.1.0
 
 Example pet project for lane lines detection based on user defined region of interest (ROI). 
@@ -15,6 +15,6 @@ ROI points
 
 Detected lane lines
 
-<img src="https://raw.githubusercontent.com/sumejko92/lane_lines_detector/master/results/Lane1.png" width="250" /> <img src="https://raw.githubusercontent.com/sumejko92/lane_lines_detector/master/results/Lane2.png" width="250" />
+<img src="https://raw.githubusercontent.com/sumejko92/lane_lines_detector/master/results/Lane1.png" width="250" /> <img src="https://raw.githubusercontent.com/sumejko92/lane_lines_detector/master/results/Lane2.png" width="250" /> <br>
 <img src="https://raw.githubusercontent.com/sumejko92/lane_lines_detector/master/results/Lane3.png" width="250" /> <img src="https://raw.githubusercontent.com/sumejko92/lane_lines_detector/master/results/Lane4.png" width="250" />
 
